@@ -18,13 +18,14 @@ The Recon Tool Web Application is a simple yet effective tool for scanning web a
 
 ## Features
 
-User authentication: Users need to log in with their credentials (username and password) to access the scanning functionality.
-Scan Types: Users can select from various scan types, including "Vulnerability Scanning," "Security Misconfiguration Scan," and "SSL/TLS Analysis."
-Progress Tracking: A progress bar displays the scan progress, indicating the status of the scanning process.
-Scan Results: The application presents scan results in a table format, showing the target name and the scan result.
-Detailed Scan Interface: Users can select a specific target from the result table to open a new interface displaying the detailed scan results.
-Save Scan Reports: Users can retrieve scan reports and save them to a chosen storage location for future reference.
-Installation
+- User authentication: Users need to log in with their credentials (username and password) to access the scanning functionality.
+- Scan Types: Users can select from various scan types, including "Vulnerability Scanning," "Security Misconfiguration Scan," and "SSL/TLS Analysis."
+- Progress Tracking: A progress bar displays the scan progress, indicating the status of the scanning process.
+- Scan Results: The application presents scan results in a table format, showing the target name and the scan result.
+- Detailed Scan Interface: Users can select a specific target from the result table to open a new interface displaying the detailed scan results.
+- Save Scan Reports: Users can retrieve scan reports and save them to a chosen storage location for future reference.
+
+## Installation
 The Recon Tool Web Application is built using Java Swing and does not require any specific installation steps. However, it does require Java to be installed on your system to run. Ensure you have Java Runtime Environment (JRE) installed before running the application.
 
 ## Code
