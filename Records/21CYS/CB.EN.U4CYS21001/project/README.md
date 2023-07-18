@@ -1,6 +1,6 @@
 ## Recon Tool Web Application
 
-The Recon Tool Web Application is a Java Swing-based GUI application designed for performing reconnaissance tasks on web applications. It allows users to perform vulnerability scanning and security analysis on a given target and provides an interface to view and save scan reports.
+The Recon Tool Web Application is a Java Swing-based GUI application designed for performing reconnaissance tasks on web applications. It allows users to perform vulnerability scanning and security analysis on a given target and provides an interface to view and save scan reports. 
 
 ## Table of Contents
 
@@ -27,6 +27,9 @@ The Recon Tool Web Application is a simple yet effective tool for scanning web a
 
 ## Installation
 The Recon Tool Web Application is built using Java Swing and does not require any specific installation steps. However, it does require Java to be installed on your system to run. Ensure you have Java Runtime Environment (JRE) installed before running the application.
+
+## Note
+The code provided is a simplified demonstration and does not include actual scanning functionalities or real authentication. Where in, the actual recon tool would be more complex and is connected to external tools for performing web application scans and verifying the user credentials.
 
 ## Code
 
